@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge&logo=verilog" alt="Verilog">
   <img src="https://img.shields.io/badge/Design-RTL-orange?style=for-the-badge" alt="RTL">
-  <img src="https://img.shields.io/badge/Simulation-Icarus%20Verilog-green?style=for-the-badge" alt="Icarus Verilog">
-  <img src="https://img.shields.io/badge/Waveform-GTKWave-purple?style=for-the-badge" alt="GTKWave">
+  <img src="https://img.shields.io/badge/Simulation-VIVADO-green?style=for-the-badge" alt="Icarus Verilog">
+  <img src="https://img.shields.io/badge/Waveform-VIVADO-purple?style=for-the-badge" alt="GTKWave">
   <img src="https://img.shields.io/badge/FPGA-Vivado-red?style=for-the-badge" alt="Vivado">
 </p>
 
